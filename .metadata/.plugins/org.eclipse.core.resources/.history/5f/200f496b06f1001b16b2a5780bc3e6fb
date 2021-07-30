@@ -1,0 +1,2 @@
+insert into user (userid,upassword,uname) values ('azeem','azeem','Azeem');
+insert into user (userid,upassword,uname) values ('ayush','ayush','Ayush');
